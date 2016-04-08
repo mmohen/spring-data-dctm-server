@@ -1,0 +1,4 @@
+activityLog*.*
+/documentum/**
+/target/**
+/.idea/libraries/**
